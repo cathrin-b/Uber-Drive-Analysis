@@ -114,7 +114,7 @@ Uber-Drive-Data-Analysis/
 ├── Uber_Drive_Data_Analysis.ipynb
 ├── UberDataset.csv
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
@@ -155,19 +155,6 @@ jupyter notebook
 **Cathrin**
 
 Aspiring Data Analyst
-
-Skills:
-- Python
-- SQL
-- Power BI
-- Excel
-- Tableau
-- Data Visualization
-- Exploratory Data Analysis
-
-LinkedIn: *(Add your profile link)*
-
-GitHub: *(Add your GitHub repository link)*
 
 ---
 
